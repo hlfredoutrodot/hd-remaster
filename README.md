@@ -88,7 +88,7 @@ H&D Remaster is a version of H&D Deluxe which is mixed with H&D Original files a
 
 ## Download
 
-1. Download .7z archive [here](https://mega.nz/file/ID0XBCpK#AAs6fzo9pHT7QIlp5tvl6390yXdHA2JbdWVqWRIKWbE)
+1. Download the latest version in the Releases Section
 
 ### Antivirus troubleshooting
 
