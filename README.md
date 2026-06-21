@@ -88,7 +88,7 @@ H&D Remaster is a version of H&D Deluxe which is mixed with H&D Original files a
 
 ## Download
 
-1. Download the latest version in the Releases Section
+1. Download the latest version in the [Release Section](https://github.com/hlfredoutrodot/hd-remaster/releases)
 
 ### Antivirus troubleshooting
 
